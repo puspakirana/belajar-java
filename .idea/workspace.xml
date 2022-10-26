@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc57b4fd-fd37-4076-88da-78d539f447fc" name="Changes" comment="belajar-java initial commit">
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KonversiNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataBukanPrimitif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TipeDataString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
+    <list default="true" id="fc57b4fd-fd37-4076-88da-78d539f447fc" name="Changes" comment="belajar-java part 2">
+      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperasiBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperasiMatematika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperasiPerbandingan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,36 +32,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Variable">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+}</component>
+  <component name="RunManager" selected="Application.OperasiBoolean">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="belajar-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataBoolean" />
+    <configuration name="OperasiBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiBoolean" />
       <module name="belajar-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataCharacter" />
+    <configuration name="OperasiMatematika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiMatematika" />
       <module name="belajar-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataString" />
+    <configuration name="OperasiPerbandingan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiPerbandingan" />
       <module name="belajar-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperasiBoolean" />
+        <item itemvalue="Application.OperasiPerbandingan" />
+        <item itemvalue="Application.OperasiMatematika" />
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.Variable" />
-        <item itemvalue="Application.TipeDataString" />
-        <item itemvalue="Application.TipeDataBoolean" />
-        <item itemvalue="Application.TipeDataCharacter" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666701477954</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="belajar-java part 2">
+      <created>1666710268143</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666710268144</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="belajar-java initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="belajar-java initial commit" />
+    <MESSAGE value="belajar-java part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="belajar-java part 2" />
   </component>
 </project>
