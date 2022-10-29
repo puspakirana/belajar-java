@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc57b4fd-fd37-4076-88da-78d539f447fc" name="Changes" comment="belajar-java part 2">
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiMatematika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperasiPerbandingan.java" afterDir="false" />
+    <list default="true" id="fc57b4fd-fd37-4076-88da-78d539f447fc" name="Changes" comment="belajar-java part 3">
+      <change afterPath="$PROJECT_DIR$/src/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursiveMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableArguments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +37,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OperasiBoolean">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array" />
+  <component name="RunManager" selected="Application.RecursiveMethod">
+    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodOverloading" />
       <module name="belajar-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,22 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperasiMatematika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiMatematika" />
+    <configuration name="RecursiveMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveMethod" />
       <module name="belajar-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperasiPerbandingan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiPerbandingan" />
+    <configuration name="VariableArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariableArguments" />
       <module name="belajar-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable" />
+    <configuration name="diagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diagonal" />
       <module name="belajar-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursiveMethod" />
+        <item itemvalue="Application.MethodOverloading" />
+        <item itemvalue="Application.VariableArguments" />
+        <item itemvalue="Application.diagonal" />
         <item itemvalue="Application.OperasiBoolean" />
-        <item itemvalue="Application.OperasiPerbandingan" />
-        <item itemvalue="Application.OperasiMatematika" />
-        <item itemvalue="Application.Array" />
-        <item itemvalue="Application.Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666710268144</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="belajar-java part 3">
+      <created>1666785541261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666785541261</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="belajar-java initial commit" />
     <MESSAGE value="belajar-java part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="belajar-java part 2" />
+    <MESSAGE value="belajar-java part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="belajar-java part 3" />
   </component>
 </project>
